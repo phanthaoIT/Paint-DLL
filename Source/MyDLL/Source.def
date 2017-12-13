@@ -1,0 +1,7 @@
+LIBRARY
+
+EXPORTS 
+	Ve_HV_HT=VeHinh
+	Duong_thang=Draw_Line
+	HCN=Draw_Rect
+	HT=Draw_Elip
